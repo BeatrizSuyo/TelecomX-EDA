@@ -59,7 +59,7 @@ Gráfico de cancelacion forma de pago:
 
 Cancelación por género:
 
-![Cancelación por género](imágenes/Cancelacion-por-genero.png)
+![Cancelación por género](imagenes/Cancelacion-por-genero.png)
 
 
 Cancelación por tipo de contrato:
