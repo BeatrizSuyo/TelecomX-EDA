@@ -48,6 +48,28 @@ TelecomX-Churn-EDA/
   No se observan diferencias significativas entre hombres y mujeres.
 
 > Todos estos análisis están ilustrados con gráficos claros y personalizables.
+> 
+### 📊 Ejemplo de gráfico:  
+
+Gráfico de cancelacion forma de pago:
+
+![Cancelación por forma de pago](imagenes/Cancelacion-forma-pago.png)
+
+
+
+Cancelación por género:
+
+![Cancelación por género](imágenes/Cancelacion-por-genero.png)
+
+
+Cancelación por tipo de contrato:
+
+![Cancelación por tipo de contrato](imagenes/Cancelacion-por-tipo-de-contrato.png)
+
+Cancelación por tiempo de contrato:
+
+![Cancelación por tipo de contrato](imagenes/Cancelacion-tiempo-contrato.png)
+
 
 ---
 
